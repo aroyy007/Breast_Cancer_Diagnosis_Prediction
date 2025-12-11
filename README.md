@@ -24,18 +24,6 @@ This project uses machine learning techniques to predict breast cancer diagnosis
 | Best k             | 5           |
 | Best KNN Accuracy  | 0.9649      |
 
-**Summary:**
-
-```
-==================================================
-Dataset: 569 samples | 30 features
-Benign: 357          | Malignant: 212
-K-Means Purity: 0.9279
-KNN Accuracy (k=5): 0.9649
-Best k: 5            | Best Accuracy: 0.9649
-==================================================
-```
-
 ## Usage
 
 ### 1. Upload Data
@@ -75,6 +63,3 @@ Best k: 5            | Best Accuracy: 0.9649
 - The notebook is compatible with Google Colab (file upload included).
 - Adjust the input file name if needed after upload.
 
-## References
-
-- [UCI Machine Learning Repository: Breast Cancer Wisconsin (Diagnostic) Data Set](<https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)>)
